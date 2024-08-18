@@ -1,0 +1,7 @@
+/* Customize the appearance of the price amount in WooCommerce product variations */
+.woocommerce-variation-price .price .woocommerce-Price-amount {
+    color: #9B2602 !important; /* Set the text color to a specific shade of red */
+    font-weight: var(--e-global-typography-2979c1d-font-weight); /* Use global font weight */
+    font-size: var(--e-global-typography-2979c1d-font-size); /* Use global font size */
+    line-height: var(--e-global-typography-2979c1d-line-height); /* Use global line height */
+}
